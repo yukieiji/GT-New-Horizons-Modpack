@@ -4,9 +4,9 @@
 gtnh.quest0.name=§d§3§2§1§l初めての夜
 gtnh.quest0.desc=まず初めにやることは食料と夜のために安全な場所を探すことです。このModパックには「Hardcore Darkness」が入っているため、夜はとてもひどい状態になるでしょう。今から食料を集めることは良いことだと思います。%n%n§l注意:この本を持ち歩く必要はありません。(キー設定が競合していなければ)デフォルトで「@」を押すことで本を使わずにクエストを開くことができます§r%n%n公式のDiscordサーバー(§6https://discord.gg/EXshrPV§r)では、クエストブック外のことで相談もできます。もちろん、参加するだけでも構いません。 現在のティアに応じたロールを#role-selectのチャンネルから選択することで、そのティアに応じたアドバイスを得ることができます。%n%n公式のWiki(§9https://gtnh.miraheze.org/wiki/Main_Page §r)も運営しているのでそちらも確認して下さい。Wikiには複雑すぎてクエストでは説明しきれない物が詳細に画像付きで書かれています。更に、クエストだけでは不十分だという方に向けての初心者ガイドも用意されています。 また、GTNHをより自分好みにカスタマイズ(フォントを変更したり)したい人向けのオプションのMODリストもあります%n%n加えてこのスプレッドシート(§dhttp://bit.ly/gtnh-datasheets§r)からも情報を得ることができます。%n%n最後に, §4Curse§rからGTNHをプレイしている場合、常に正常に動作するわけではないことに注意して下さい(Curseでインストールした場合、GTNHがカスタマイズしたMODがうまくインストールされないことがあります)。なので、何らかの問題が発生した場合、§9MultiMC§rか§aTechnic§rなどの別のランチャーに切り替えることで問題が解決することがあります。 最新のGTNHはDiscodの#announcementsチャンネルまたは!downloadコマンドを使用することで入手できます。%n%n§3これを呼んでいる間に襲撃されていないことを祈ります。
 
-# Quest.1 - §1§lWhere's the Flint?
-gtnh.quest1.name=§1§lWhere's the Flint?
-gtnh.quest1.desc=As you might have noticed, while collecting gravel, no flint dropped for you. Well, there is a... recipe for that. Look up flint in NEI and craft some!
+# Quest.1 - §1§l火打ち石はどこ?
+gtnh.quest1.name=§1§l火打ち石はどこ?
+gtnh.quest1.desc=砂利を集めているうちに火打ち石がドロップしないことに気づいたかもしれません。えっと、それは...それのレシピがあります。NEIで火打ち石を探し、いくつかクラフトしましょう!
 
 # Quest.2 - §1§lSticks 'n Stones
 gtnh.quest2.name=§1§lSticks 'n Stones
