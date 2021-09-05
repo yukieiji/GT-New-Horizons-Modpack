@@ -16,9 +16,9 @@ gtnh.quest2.desc=この本には読書灯が内蔵されています。幸運で
 gtnh.quest3.name=§1§l日々のストレージ
 gtnh.quest3.desc=道具を入手し、これから様々なものを集めるため、そろそろ、それらを収納するストレージを作るときです。木材を使ってチェストを作りましょう。原木4つ、木材4つ、火打ち石1つが必要です
 
-# Quest.4 - §1§lMain Quests and Secondary Quests
-gtnh.quest4.name=§1§lMain Quests and Secondary Quests
-gtnh.quest4.desc=Now that you've made it this far, notice the two new quests. See how these two quests look different? The quest with the jagged edges is a main quest and is linked to other main quests by a thick line. You must complete the main quests to unlock the next tier, or to progress in general. If you can't progress, go back to previous tiers and look for uncompleted main quests. The other quest is an optional quest, and is not needed to unlock new tiers. However, optional quests often introduce you to useful items or processes.%n%nWhat are the coins? You can use them to purchase things in the Coins tab. In case you started in a bad biome, I'll give you enough coins to purchase some saplings.
+# Quest.4 - §1§lメインクエストとセカンダリークエスト
+gtnh.quest4.name=§1§lメインクエストとセカンダリークエスト
+gtnh.quest4.desc=ここまで来たら2つの新しいクエストに注目してみましょう。これらのクエストは見た目が違いますよね？ギザギザしている方がメインクエストで他のメインクエストと太い線で繋がっています。メインクエストをクリアしないと次のティアのクエストが開放されなかったり全体の進捗が進みません。どうしても、次のメインクエストが開放されない場合は、一つ前のティアのクエストで未クリアのクエストを探して、クリアしましょう。もう一方のクエストはサブクエストであり、次のティアを開放するためには必要ありません。しかし、サブクエストでは、基本的に便利なアイテムや処理の方法を紹介しています。%n%nQ:コインとは何ですか？%nA:クエストのコインのタブで様々な物を購入するときに使用します。例として、運悪く苗木が少ないようなバイオームにスポーンし苗木が欲しい場合、必要なコインを支払うことで苗木を購入することができます
 
 # Quest.5 - §1§lTools
 gtnh.quest5.name=§1§lTools
