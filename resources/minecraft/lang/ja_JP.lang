@@ -8,9 +8,9 @@ gtnh.quest0.desc=まず初めにやることは食料と夜のために安全な
 gtnh.quest1.name=§1§l火打ち石はどこ?
 gtnh.quest1.desc=砂利を集めているうちに火打ち石がドロップしないことに気づいたかもしれません。えっと、それは...それのレシピがあります。NEIで火打ち石を探し、いくつかクラフトしましょう!
 
-# Quest.2 - §1§lSticks 'n Stones
-gtnh.quest2.name=§1§lSticks 'n Stones
-gtnh.quest2.desc=This book has a built-in reading light, lucky you! You can read about quests while you're waiting for the night to be over, but for now, you may want to get the basics done. If it isn't dark already, go out and collect some gravel and wood. Keep in mind that you need food, so look for Pam's Harvestcraft gardens. (And save some of the vegetables for seeds!)%n%n§3If you haven't already, make sure to read the info quests linked from the first quest when you can, they have important info!
+# Quest.2 - §1§lスティックストーンズ
+gtnh.quest2.name=§1§lスティックストーンズ
+gtnh.quest2.desc=この本には読書灯が内蔵されています。幸運ですね！ 一日中クエストを読むのもいいですが、いくつか基本的なクエストを完了させたほうが良いでしょう。外が暗くなければ、砂利や木を集めましょう。常に食べ物が必要だということを念頭に置いておきましょう、なので、Pam's HarvestCraftのガーデン探してみて下さい(その一部は食べず種ととして保存しておきましょう。)%n%n§3外が暗く、探索ができるような状態ではなければ、最初のクエストから繋がっている情報が書いてあるいくつかのクエストをできる限り読みましょう！重要な情報が書いてあります。
 
 # Quest.3 - §1§lStorage For Days
 gtnh.quest3.name=§1§lStorage For Days
