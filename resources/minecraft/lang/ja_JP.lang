@@ -20,9 +20,9 @@ gtnh.quest3.desc=道具を入手し、これから様々なものを集めるた
 gtnh.quest4.name=§1§lメインクエストとセカンダリークエスト
 gtnh.quest4.desc=ここまで来たら2つの新しいクエストに注目してみましょう。これらのクエストは見た目が違いますよね？ギザギザしている方がメインクエストで他のメインクエストと太い線で繋がっています。メインクエストをクリアしないと次のティアのクエストが開放されなかったり全体の進捗が進みません。どうしても、次のメインクエストが開放されない場合は、一つ前のティアのクエストで未クリアのクエストを探して、クリアしましょう。もう一方のクエストはサブクエストであり、次のティアを開放するためには必要ありません。しかし、サブクエストでは、基本的に便利なアイテムや処理の方法を紹介しています。%n%nQ:コインとは何ですか？%nA:クエストのコインのタブで様々な物を購入するときに使用します。例として、運悪く苗木が少ないようなバイオームにスポーンし苗木が欲しい場合、必要なコインを支払うことで苗木を購入することができます
 
-# Quest.5 - §1§lTools
-gtnh.quest5.name=§1§lTools
-gtnh.quest5.desc=Now that you've got a shelter and a crafting table, you should make some tools. (Unless you'd like to continue punching trees with your bare hand...)%n%nNOTE: Make sure to use vanilla sticks, not Natura sticks.%n%n§3You should probably make the shovel first so you can get gravel for the rest more easily.
+# Quest.5 - §1§l道具
+gtnh.quest5.name=§1§l道具
+gtnh.quest5.desc=拠点、作業台ができたので、次はいくつかのツールを作ってみましょう (素手で木を伐採し続けない限り...)%n%n注意: Naturaの棒ではなく、バニラの棒を使いましょう。%n%n§3シャベルを最初に作ると砂利を集めやすくなります。
 
 # Quest.6 - §1§lYou Reap...
 gtnh.quest6.name=§1§lYou Reap...
