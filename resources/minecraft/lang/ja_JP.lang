@@ -12,9 +12,9 @@ gtnh.quest1.desc=砂利を集めているうちに火打ち石がドロップし
 gtnh.quest2.name=§1§lスティックストーンズ
 gtnh.quest2.desc=この本には読書灯が内蔵されています。幸運ですね！ 一日中クエストを読むのもいいですが、いくつか基本的なクエストを完了させたほうが良いでしょう。外が暗くなければ、砂利や木を集めましょう。常に食べ物が必要だということを念頭に置いておきましょう、なので、Pam's HarvestCraftのガーデン探してみて下さい(その一部は食べず種ととして保存しておきましょう。)%n%n§3外が暗く、探索ができるような状態ではなければ、最初のクエストから繋がっている情報が書いてあるいくつかのクエストをできる限り読みましょう！重要な情報が書いてあります。
 
-# Quest.3 - §1§lStorage For Days
-gtnh.quest3.name=§1§lStorage For Days
-gtnh.quest3.desc=Now that you've gotten your tools and are about to go collect a bunch of stuff, it's about time to make some storage for your goods. Take some of your wood, and craft a chest. You will need 4 wood, 4 planks and 1 flint.
+# Quest.3 - §1§l日々のストレージ
+gtnh.quest3.name=§1§l日々のストレージ
+gtnh.quest3.desc=道具を入手し、これから様々なものを集めるため、そろそろ、それらを収納するストレージを作るときです。木材を使ってチェストを作りましょう。原木4つ、木材4つ、火打ち石1つが必要です
 
 # Quest.4 - §1§lMain Quests and Secondary Quests
 gtnh.quest4.name=§1§lMain Quests and Secondary Quests
