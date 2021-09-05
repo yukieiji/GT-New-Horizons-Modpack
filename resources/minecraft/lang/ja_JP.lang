@@ -1,26 +1,26 @@
 #################################Quests#################################
 
- Quest.0 - §d§3§2§1§l初めての夜
+# Quest.0 - §d§3§2§1§lYour First Night
 gtnh.quest0.name=§d§3§2§1§l初めての夜
 gtnh.quest0.desc=まず初めにやることは食料と夜のために安全な場所を探すことです。このModパックには「Hardcore Darkness」が入っているため、夜はとてもひどい状態になるでしょう。今から食料を集めることは良いことだと思います。%n%n§l注意:この本を持ち歩く必要はありません。(キー設定が競合していなければ)デフォルトで「@」を押すことで本を使わずにクエストを開くことができます§r%n%n公式のDiscordサーバー(§6https://discord.gg/EXshrPV§r)では、クエストブック外のことで相談もできます。もちろん、参加するだけでも構いません。 現在のティアに応じたロールを#role-selectのチャンネルから選択することで、そのティアに応じたアドバイスを得ることができます。%n%n公式のWiki(§9https://gtnh.miraheze.org/wiki/Main_Page §r)も運営しているのでそちらも確認して下さい。Wikiには複雑すぎてクエストでは説明しきれない物が詳細に画像付きで書かれています。更に、クエストだけでは不十分だという方に向けての初心者ガイドも用意されています。 また、GTNHをより自分好みにカスタマイズ(フォントを変更したり)したい人向けのオプションのMODリストもあります%n%n加えてこのスプレッドシート(§dhttp://bit.ly/gtnh-datasheets§r)からも情報を得ることができます。%n%n最後に, §4Curse§rからGTNHをプレイしている場合、常に正常に動作するわけではないことに注意して下さい(Curseでインストールした場合、GTNHがカスタマイズしたMODがうまくインストールされないことがあります)。なので、何らかの問題が発生した場合、§9MultiMC§rか§aTechnic§rなどの別のランチャーに切り替えることで問題が解決することがあります。 最新のGTNHはDiscodの#announcementsチャンネルまたは!downloadコマンドを使用することで入手できます。%n%n§3これを呼んでいる間に襲撃されていないことを祈ります。
 
-# Quest.1 - §1§l火打ち石はどこ?
+# Quest.1 - §1§lWhere's the Flint?
 gtnh.quest1.name=§1§l火打ち石はどこ?
 gtnh.quest1.desc=砂利を集めているうちに火打ち石がドロップしないことに気づいたかもしれません。えっと、それは...それのレシピがあります。NEIで火打ち石を探し、いくつかクラフトしましょう!
 
-# Quest.2 - §1§lスティックストーンズ
+# Quest.2 - §1§lSticks 'n Stones
 gtnh.quest2.name=§1§lスティックストーンズ
 gtnh.quest2.desc=この本には読書灯が内蔵されています。幸運ですね！ 一日中クエストを読むのもいいですが、いくつか基本的なクエストを完了させたほうが良いでしょう。外が暗くなければ、砂利や木を集めましょう。常に食べ物が必要だということを念頭に置いておきましょう、なので、Pam's HarvestCraftのガーデン探してみて下さい(その一部は食べず種ととして保存しておきましょう。)%n%n§3外が暗く、探索ができるような状態ではなければ、最初のクエストから繋がっている情報が書いてあるいくつかのクエストをできる限り読みましょう！重要な情報が書いてあります。
 
-# Quest.3 - §1§l日々のストレージ
+# Quest.3 - §1§lStorage For Days
 gtnh.quest3.name=§1§l日々のストレージ
 gtnh.quest3.desc=道具を入手し、これから様々なものを集めるため、そろそろ、それらを収納するストレージを作るときです。木材を使ってチェストを作りましょう。原木4つ、木材4つ、火打ち石1つが必要です
 
-# Quest.4 - §1§lメインクエストとセカンダリークエスト
+# Quest.4 - §1§lMain Quests and Secondary Quests
 gtnh.quest4.name=§1§lメインクエストとセカンダリークエスト
 gtnh.quest4.desc=ここまで来たら2つの新しいクエストに注目してみましょう。これらのクエストは見た目が違いますよね？ギザギザしている方がメインクエストで他のメインクエストと太い線で繋がっています。メインクエストをクリアしないと次のティアのクエストが開放されなかったり全体の進捗が進みません。どうしても、次のメインクエストが開放されない場合は、一つ前のティアのクエストで未クリアのクエストを探して、クリアしましょう。もう一方のクエストはサブクエストであり、次のティアを開放するためには必要ありません。しかし、サブクエストでは、基本的に便利なアイテムや処理の方法を紹介しています。%n%nQ:コインとは何ですか？%nA:クエストのコインのタブで様々な物を購入するときに使用します。例として、運悪く苗木が少ないようなバイオームにスポーンし苗木が欲しい場合、必要なコインを支払うことで苗木を購入することができます
 
-# Quest.5 - §1§l道具
+# Quest.5 - §1§lTools
 gtnh.quest5.name=§1§l道具
 gtnh.quest5.desc=拠点、作業台ができたので、次はいくつかのツールを作ってみましょう (素手で木を伐採し続けない限り...)%n%n注意: Naturaの棒ではなく、バニラの棒を使いましょう。%n%n§3シャベルを最初に作ると砂利を集めやすくなります。
 
@@ -11643,84 +11643,84 @@ gtnh.quest2909.desc=No Description
 ##################################Line##################################
 
 # QuestLine.0 - And So, It Begins
-gtnh.line0.name=And So, It Begins
-gtnh.line0.desc=The very first tier, tier zero. This chapter will introduce you to the basic mechanics of this modpack. Mods covered: Vanilla, Pam's Harvestcraft.
+gtnh.line0.name=そして、それは始まる
+gtnh.line0.desc=とても初期のティア、ティア0。 このクエストラインでは、このModPackの基本的な仕組みを紹介します。対象としているModはバニラとPam's Harvestcraft.
 
 # QuestLine.1 - Tier 0 - Stone Age
-gtnh.line1.name=Tier 0 - Stone Age
-gtnh.line1.desc=This tab continues the basics until you make your first steam machine, and are ready for the real GT stuff
+gtnh.line1.name=ティア 0 - 石器時代
+gtnh.line1.desc=このクエストラインは、最初の蒸気機械を作成するまでの基本と本格的なGregTechの準備まで続きます
 
 # QuestLine.2 - Tier 0.5 - Steam
-gtnh.line2.name=Tier 0.5 - Steam
-gtnh.line2.desc=Steam to electricity (EU) is the progression of this tab. Most of the machines you make in this tier you'll use the whole game, if in an upgraded form.
+gtnh.line2.name=ティア 0.5 - 蒸気
+gtnh.line2.desc=このクエストラインは蒸気から電気(EU)へ発展を表しています。このティアで作成したほぼすべての機械はアップグレードを行うことで、GTNH全体を通して使用します。
 
 # QuestLine.3 - Tier 1 - 32 EU (LV)
 gtnh.line3.name=Tier 1 - 32 EU (LV)
-gtnh.line3.desc=The first "voltage" tier of this pack. Things should be a little easier with some of the machines you can now make, and almost every type of machine is now available, try not to be overwhelmed. You can get away with using LV machines for automating processing of things like polyethylene or electrolyzing water the whole game, so consider setting that up when you need it.
+gtnh.line3.desc=このModPackでの初めての"電圧"です。このティアでほぼ全ての種類の機械が作れるようになっているので少しは楽ができるようになります。とはいえ、それらを作らなければならいので無理はしないで下さい。　ポリエチレンなどの自動加工や水の電気分解のラインにはLV機械を使っても作成可能であるため、必要に応じて作成して下さい
 
 # QuestLine.4 - Tier 2 - 128 EU (MV)
-gtnh.line4.name=Tier 2 - 128 EU (MV)
-gtnh.line4.desc=Your second voltage tier. Don't mix different voltage levels, or you'll have a fancy new crater. Start thinking about how to expand your base. %n%nBTW, for OCing purposes, this counts as tier 2, ULV doesn't count.
+gtnh.line4.name=ティア 2 - 128 EU (MV)
+gtnh.line4.desc=2つめの電圧ティア。機械の電圧を間違えないで下さい、さもなければ、巨大なクレーターができるでしょう。 どのように拠点を拡張すべきかを考え始めましょう。 %n%nちなみに、この電圧によるレシピのオーバークロックはティア2にカウントされます。ULVはカウントされません。
 
 # QuestLine.5 - Tier 3 - 512 EU (HV)
-gtnh.line5.name=Tier 3 - 512 EU (HV)
-gtnh.line5.desc=Finally some real power to work with. This tier is all about getting to the moon to gather more rare resources to build even more advanced machines.
+gtnh.line5.name=ティア 3 - 512 EU (HV)
+gtnh.line5.desc=やっと本格的に作業を行う力を手に入れました。このティアでは、月に行ってさらに希少な資源を集め、さらに高度な機械を作ることが目的です。
 
 # QuestLine.6 - Tier 4 - 2048 EU (EV)
-gtnh.line6.name=Tier 4 - 2048 EU (EV)
-gtnh.line6.desc=Welcome to EV! You have successfully gone to the moon and processed Titanium. You are now getting extreme levels of energy. In this tier you will unlock Nuclear energy, and Applied Energistics 2.
+gtnh.line6.name=ティア 4 - 2048 EU (EV)
+gtnh.line6.descEVへようこそ! あなたは、月に行ってチタンを加工することに成功しました。そして今、エクストリームなレベルのエネルギーを手に入れています。このティアでは。「核エネルギー」と「Applied Energistics 2」がアンロックされます。
 
 # QuestLine.7 - Tier 5 - 8192 EU (IV)
-gtnh.line7.name=Tier 5 - 8192 EU (IV)
-gtnh.line7.desc=This tier is all about the platline, and making the assembly line. They're both super hard , but necessary. This is probably where most people drop out. Good luck!
+gtnh.line7.name=ティア 5 - 8192 EU (IV)
+gtnh.line7.desc=このティアでは、プラチナラインとアセンブリラインの作成が中心となります。どちらも非常に難易度が高いですが、今後必要なことです。おそらくほとんどの人がここまで脱落してしまうのではないでしょうか。幸運を祈ります！
 
 # QuestLine.8 - Tier 6 - 32768 EU (LuV)
-gtnh.line8.name=Tier 6 - 32768 EU (LuV)
-gtnh.line8.desc=If you have made it this far, you should walk with your head held high - you are at the start of the lategame. Endgame is still a long road ahead of you, but you are now an expert at GTNH and most of the mods it comes with. Congrats, and be proud of yourself.%n%nOnce you're done being proud, start making CALs for better circuits, and work towards making endgame power with the Fusion Reactor, you'll need it.
+gtnh.line8.name=ティア 6 - 32768 EU (LuV)
+gtnh.line8.desc=ここまで来ることができたあなたは、頭を高く上げて歩く事ができます - "終わり"の始まりだ。"終わり"はとても長い道のりですが、あなたは今、GTNHとそれにインストールされたほとんどのMODのエキスパートです。おめでとう、そして自分を誇りに思ってください。%n%n誇りを持つことができたら、さらに上位の回路のためにCALを作り始め、核融合炉で"終わり"にふさわしい力を手に入れる努力しましょう。
 
 # QuestLine.9 - How to Generate Power
-gtnh.line9.name=How to Generate Power
-gtnh.line9.desc=If there's a way to generate EU, it'll be on this tab, so check back after a new milestone to see if anything became available.
+gtnh.line9.name=電気を生み出す方法
+gtnh.line9.desc=EUを発電する方法があれば、このクエストラインに表示されますので、なにか新しいマイルストーンの後に、新しい発電方法があるかチェックしてみてください。
 
 # QuestLine.10 - Fishing, Farming, Cooking
-gtnh.line10.name=Fishing, Farming, Cooking
-gtnh.line10.desc=Catch it, grow it, eat it!
+gtnh.line10.name=釣り、農業、料理
+gtnh.line10.desc=手に入れて、育てて、食べろ!
 
 # QuestLine.11 - Getting Around Without Dying
-gtnh.line11.name=Getting Around Without Dying
-gtnh.line11.desc=In order to not die constantly, you'll need weapons, armor and transportation. There's also utility stuff like minecarts/trains, adventure backpacks and jetpacks.
+gtnh.line11.name=死なずに済むようにするには
+gtnh.line11.desc=常に死なないためには、武器や防具、移動手段が重要になります。ここにはマインカート/列車、アドベンチャーバックパック、ジェットパックなどの実用的なものもあります。
 
 # QuestLine.12 - Multiblock Goals
-gtnh.line12.name=Multiblock Goals
-gtnh.line12.desc=This set is a global tracker for multiblock structure goals. As you can build several parts of many multiblocks way earlier than the respective tier. Check back often.
+gtnh.line12.name=マルチブロックゴール
+gtnh.line12.desc=このクエストラインはマルチブロック関連の目標を達成するためのグローバルトラッカーです。多数あるマルチブロックのいくつかを、それぞれのティアよりもずっと早く構築することができるように。頻繁にチェックしてください。
 
 # QuestLine.13 - Building Better Bases
-gtnh.line13.name=Building Better Bases
-gtnh.line13.desc=Tired of torches everywhere making your base look like a loser built it? Make your base look like a winner with these quests.
+gtnh.line13.name=より良い拠点づくり
+gtnh.line13.desc=松明があちこちにあって、負け犬が作ったような拠点になっていることにうんざりしていませんか？これらのクエストによってあなたの拠点を勝ち組のようにしてください。
 
 # QuestLine.14 - Basic Automation
-gtnh.line14.name=Basic Automation
-gtnh.line14.desc=Steve's Carts and ProjectRed automation, for your auto-farming and auto-crafting needs, lag included!
+gtnh.line14.name=基本的な自動化
+gtnh.line14.desc=Steve's CartsとProjectRedによる自動化、自動農場と自動クラフトのために、 ラグを含みます！
 
 # QuestLine.16 - Coins, Coins, Coins
-gtnh.line16.name=Coins, Coins, Coins
-gtnh.line16.desc=These quests will give you something to use your Coins on. So come on in and and buy some useful or fancy stuff.
+gtnh.line16.name=コイン、コイン、コイン
+gtnh.line16.desc=これらのクエストはコインを使って何かを購入することができます。便利なものやおしゃれなものを購入するのはどうでしょうか。
 
-# QuestLine.17 - GT++ 
-gtnh.line17.name=GT++ 
-gtnh.line17.desc=GT++ adds new functionality to GT, including high speed multiblocks
+# QuestLine.17 - GT++
+gtnh.line17.name=GT++
+gtnh.line17.desc=GT++はGTに高速マルチブロックなどの新機能を追加しています。
 
 # QuestLine.18 - Forestry and Multifarms
-gtnh.line18.name=Forestry and Multifarms
-gtnh.line18.desc=Automated Farms, tree breeding, and more.....
+gtnh.line18.name=Forestryとマルチファーム
+gtnh.line18.desc=自動農業、樹木交配と・・・
 
 # QuestLine.19 - Be(e) Breeding
-gtnh.line19.name=Be(e) Breeding
-gtnh.line19.desc=Breeding Bees for Better Bling (experimental, may cause honey leakage)
+gtnh.line19.name=蜂の交配を行う
+gtnh.line19.desc=より良い輝きのために、蜂を交配させる(実験的、蜂蜜が漏れる可能性があり)
 
 # QuestLine.20 - How to Be(e)
-gtnh.line20.name=How to Be(e)
-gtnh.line20.desc=A non-tiered quest set that is meant as an in game, quest based tutorial and guide to bees. Since they are a really helpful tool to advance forward.
+gtnh.line20.name=どのようにする(蜂)
+gtnh.line20.desc=蜂のチュートリアルとそのガイドをクエストによって示した非階層型のクエストラインです。蜂は前に進むために本当に役に立ちます。
 
 # QuestLine.22 - Novice Thaumaturgy
 gtnh.line22.name=Novice Thaumaturgy
