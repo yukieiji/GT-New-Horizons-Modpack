@@ -11668,7 +11668,7 @@ gtnh.line5.desc=やっと本格的に作業を行う力を手に入れました�
 
 # QuestLine.6 - Tier 4 - 2048 EU (EV)
 gtnh.line6.name=ティア 4 - 2048 EU (EV)
-gtnh.line6.descEVへようこそ! あなたは、月に行ってチタンを加工することに成功しました。そして今、エクストリームなレベルのエネルギーを手に入れています。このティアでは。「核エネルギー」と「Applied Energistics 2」がアンロックされます。
+gtnh.line6.desc=EVへようこそ! あなたは、月に行ってチタンを加工することに成功しました。そして今、エクストリームなレベルのエネルギーを手に入れています。このティアでは。「核エネルギー」と「Applied Energistics 2」がアンロックされます。
 
 # QuestLine.7 - Tier 5 - 8192 EU (IV)
 gtnh.line7.name=ティア 5 - 8192 EU (IV)
@@ -11768,7 +11768,7 @@ gtnh.line35.desc=AE2は、MEネットワークと呼ばれるコンパクトで�
 
 # QuestLine.37 - Kill All the Things
 gtnh.line37.name=すべてを殺せ
-gtnh.line37.desc=この世界には嫌な奴らで溢れている。何人か殺して自分の評判を上げる時だ
+gtnh.line37.desc=この世界には嫌な奴らで溢れている。何人か殺して這い上がる時だ
 
 # QuestLine.40 - Legendary Quests
 gtnh.line40.name=伝説のクエスト
