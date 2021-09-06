@@ -11723,74 +11723,73 @@ gtnh.line20.name=どのようにする(蜂)
 gtnh.line20.desc=蜂のチュートリアルとそのガイドをクエストによって示した非階層型のクエストラインです。発展に蜂は大いに役立ちます。
 
 # QuestLine.22 - Novice Thaumaturgy
-gtnh.line22.name=Novice Thaumaturgy
-gtnh.line22.desc=Magic lies beyond. Great achievements, but also a lot of work. I shall be your guide. Follow my instructions, and you shall become a great wizard, like me.
+gtnh.line22.name=初めての魔術
+gtnh.line22.desc=魔法はその先にある。偉大な功績であると共に大変な作業でもある。私があなたのガイドとなるでしょう。そして、あなたが私に従えば、私のような偉大な魔法使いとなるでしょう。
 
 # QuestLine.23 - Adept Thaumaturgy
-gtnh.line23.name=Adept Thaumaturgy
-gtnh.line23.desc=Warp included.
+gtnh.line23.name=上位の魔術
+gtnh.line23.desc=歪みを含む。
 
 # QuestLine.24 - Kaaami, Haaaami, ... HA!
-gtnh.line24.name=Kaaami, Haaaami, ... HA!
-gtnh.line24.desc=Ultimate (magical) POWER!!!
+gtnh.line24.name=神ィィィ、ハミィィィ、 ... ﾊｯ!
+gtnh.line24.desc=究極の(魔法の)力!!!
 
 # QuestLine.25 - Focus on Wand Foci & EMT
-gtnh.line25.name=Focus on Wand Foci & EMT
-gtnh.line25.desc=Do you know which wand focus is useful and which not? Also, some EMT stuff.
+gtnh.line25.name=杖のフォーカスとEMT
+gtnh.line25.desc=どのワンドフォーカスが有用か無能かわかりますか？ついでに、EMTのことも
 
 # QuestLine.27 - Look to the Edges
-gtnh.line27.name=Look to the Edges
-gtnh.line27.desc=Granny Weatherwax would approve.
+gtnh.line27.name=隅々に目を向ける
+gtnh.line27.desc=偉大な魔女:グラニー・ウェザーワックスも認めているという
 
 # QuestLine.28 - Paying the Highest Price
-gtnh.line28.name=Paying the Highest Price
-gtnh.line28.desc=When regular magic just won't cover it, pay demons to do it for you! The cost might scare some people... But no risk no fun!
+gtnh.line28.name=最高の代償を支払う
+gtnh.line28.desc=一般的な魔法でカバーしきれない物事は、悪魔に貢いでやってもらいましょう！貢ぐ物に関しては不安を感じる人もいるかもしれませんが...しかし、リスクが無ければ楽しみもありません。
 
 # QuestLine.29 - Endgame Goals
-gtnh.line29.name=Endgame Goals
-gtnh.line29.desc=Collection of endgame objectives, good luck and thanks for playing so far.
+gtnh.line29.name="終わり"の終わり
+gtnh.line29.desc="終わり"の終わりの収集、幸運とここまでのプレイに感謝します。
 
 # QuestLine.30 - Tier 7 - 131072 EU (ZPM)
 gtnh.line30.name=Tier 7 - 131072 EU (ZPM)
-gtnh.line30.desc=Congratulations, you've completed the platline, assline, CAL, §oand§r fusion reactor and made it to the Zero Point Module tier. You're well into the late game now, but there's still a lot of stuff to do. Good luck!
+gtnh.line30.descおめでとうございます、あなたはプラチナライン、アセンブリーライン、CAL、§oそして§r核融合炉を完成させ、ゼロポイントモジュールティアに到達しました。後半戦に突入しましたがまだまだやるべきことはたくさんあります。頑張って下さい
 
 # QuestLine.31 - Advanced Automation
-gtnh.line31.name=Advanced Automation
-gtnh.line31.desc=SFM and OC have your back for assline automation! And automating other stuff too complex for AE2, like infusion or blood altars. You can do a lot of cool stuff with OC, feel free to give it a try.
+gtnh.line31.name=応用的な自動化
+gtnh.line31.desc=SFMとOCがアセンブリーラインの自動化を支援! また、インフュージョンやブラッドアルターなどのAE2では複雑過ぎて自動化できないものを自動化できます。OCはたくさんクールなことができるので、気軽に色々と試してみてください。
 
 # QuestLine.34 - Space Race
-gtnh.line34.name=Space Race
-gtnh.line34.desc=A guide to help you start Galacticraft to reach the Moon and beyond
+gtnh.line34.name=宇宙開発競争
+gtnh.line34.desc=月やその先を目指すためのGalacticCraftを始めるためのガイド
 
 # QuestLine.35 - Applied Energistics
 gtnh.line35.name=Applied Energistics
-gtnh.line35.desc=AE2 focuses on creating a compact, easily accessible, considerably extendible storage system called an ME Network. You can use it to autocraft items as well, and if you want to finish the pack, you will.
+gtnh.line35.desc=AE2は、MEネットワークと呼ばれるコンパクトで簡単にアクセスでき、拡張可能なストレージシステムを作ることに重点を置いたMODです。これを使ってアイテムやブロックをオートクラフトすることもできますし、パックを終わらせたいと思えばそうすることもできます。
 
 # QuestLine.37 - Kill All the Things
-gtnh.line37.name=Kill All the Things
-gtnh.line37.desc=This world is full of nasty things. Time to kill some and improve your reputation.
+gtnh.line37.name=すべてを殺せ
+gtnh.line37.desc=この世界には嫌な奴らで溢れている。何人か殺して自分の評判を上げる時だ
 
 # QuestLine.40 - Legendary Quests
-gtnh.line40.name=Legendary Quests
-gtnh.line40.desc=A legendary quest-line with difficult tasks, expensive recipes and potentially dangerous locations. Are you prepared?%n%nMay be related to Dragons?
+gtnh.line40.name=伝説のクエスト
+gtnh.line40.desc=困難な課題、高価なレシピ、危険な場所への旅などの伝説的なクエストライン。準備はできていますか？%n%nドラゴンと関係があるかも？
 
 # QuestLine.42 - Reward Area
-gtnh.line42.name=Reward Area
-gtnh.line42.desc=Upgrade your loot bags!
+gtnh.line42.name=報酬エリア
+gtnh.line42.desc=報酬バックをアップグレード!
 
 # QuestLine.43 - Hardcore End(er) Expansion
-gtnh.line43.name=Hardcore End(er) Expansion
-gtnh.line43.desc=Treasure of lands far beyond the vast sea of the Void and very angry rune spiders await you!
+gtnh.line43.name=ハードコアなエンド探索のHardcore Ender Expansion
+gtnh.line43.desc=広大な虚無の海を超えた先の宝島と怒り狂ったルーンスパイダーがあなたを待っています！!
 
 # QuestLine.44 - Tips and Tricks
-gtnh.line44.name=Tips and Tricks
-gtnh.line44.desc=All our collected wisdom, in one convenient place. Many Greggers died to bring you this knowledge.
+gtnh.line44.name=ヒントとトリック
+gtnh.line44.desc=私たちが集めたすべての知恵を、この便利な場所にまとめました。多くのグレッガーがこの知識を得るために命を落としました。
 
 # QuestLine.45 - Tier 8 - 524288 EU (UV)
 gtnh.line45.name=Tier 8 - 524288 EU (UV)
-gtnh.line45.desc=Ultimate Voltage! This is the final tier in normal GregTech, but here in GregTech: New Horizons, we pierce the heavens to go beyond the limit! You have done something that only a few players are capable of doing. Welcome to the Endgame!
+gtnh.line45.desc=究極の電圧! 通常のGregTechではここが最終ティアですが、これはGregTech: New Horizons、限界を越えるために天をも貫く！ あなたは、ほんの数人のプレイヤーにしかできないことを成し遂げたのです。"終わり"へようこそ!
 
 # QuestLine.46 - Tier 9 - 2097152 EU (UHV)
 gtnh.line46.name=Tier 9 - 2097152 EU (UHV)
-gtnh.line46.desc=Uhh... hi? You really aren't supposed to be here, you know? We're still, you know, making this tier, right?
-
+gtnh.line46.desc=ええと...こんにちは？君はここにいるべきではないんだよ？私たちはまだ、この階層を作っているところなのよ？
