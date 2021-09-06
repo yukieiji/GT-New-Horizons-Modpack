@@ -11513,8 +11513,8 @@ gtnh.quest2877.name=Applied Greg?
 gtnh.quest2877.desc=The Output Bus (ME) is a combination of technology and...other technology. Don't give me that look, it is, ok? With this, you can now directly output the results of your GT MBs into the ME network. This has §osignificantly§r less lag, so please start using them as soon as possible on servers.%n%nYou just pop off your output bus + ME import bus or ME interface combination, and replace both with the new bus and connect a fluix cable directly to it. It uses 1 channel, same as the other options.
 
 # Quest.2878 - §b§lPalladium
-gtnh.quest2878.name=§b§lPalladium
-gtnh.quest2878.desc=Lastly, add Formic Acid to Reprecipated Palladium to get pure Palladium, along with other stuff you can reuse.
+gtnh.quest2878.name=§b§lパラジウム(Palladium)
+gtnh.quest2878.desc=最後に、還元パラジウムにギ酸(Formic Acid)を加えることで(純粋な)パラジウムを手に入れれます。副産物は再利用が可能です
 
 # Quest.2879 - §b§lSalt Can't be Stored in Water?
 gtnh.quest2879.name=§b§lSalt Can't be Stored in Water?
