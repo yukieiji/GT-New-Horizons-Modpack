@@ -11514,15 +11514,15 @@ gtnh.quest2877.desc=The Output Bus (ME) is a combination of technology and...oth
 
 # Quest.2878 - §b§lPalladium
 gtnh.quest2878.name=§b§lパラジウム(Palladium)
-gtnh.quest2878.desc=最後に、還元パラジウムにギ酸(Formic Acid)を加えることで(純粋な)パラジウムを手に入れれます。副産物は再利用が可能です
+gtnh.quest2878.desc=最後に、還元パラジウムにギ酸(Formic Acid)を加えることで(純粋な)パラジウムを手に入れる事ができます。副産物は再利用が可能です
 
 # Quest.2879 - §b§lSalt Can't be Stored in Water?
-gtnh.quest2879.name=§b§lSalt Can't be Stored in Water?
-gtnh.quest2879.desc=Dissolve the Rhodium Salt in Water in a mixer to get Rhodium Salt Solution.
+gtnh.quest2879.name=§b§l塩を水に入れてはいけない？
+gtnh.quest2879.desc=ロジウム塩(Rhodium Salt)をミキサーを使って水に溶かしてロジウム塩溶液(Rhodium Salt Solution)を得ることができる。
 
 # Quest.2880 - §b§lSodium Nitrate
-gtnh.quest2880.name=§b§lSodium Nitrate
-gtnh.quest2880.desc=You need Sodium Nitrate to process your Rhodium further.
+gtnh.quest2880.name=§b§l硝酸ナトリウム(Sodium Nitrate)
+gtnh.quest2880.desc=ロジウム(Rhodium)をさらに加工するには、硝酸ナトリウム(Sodium Nitrate)が必要です。
 
 # Quest.2881 - §b§lHeat it Up!
 gtnh.quest2881.name=§b§lHeat it Up!
