@@ -11466,31 +11466,31 @@ gtnh.quest2865.desc=You can get Giant Sequoia by combining Coast Sequoia and Gra
 
 # Quest.2866 - Common Alder
 gtnh.quest2866.name=Common Alder
-gtnh.quest2866.desc=You can breed a Common Alder by combining Silver Birch and Common Beech.
+gtnh.quest2866.desc=「Silver Birch」と「Common Beech」を交配することで「Common Alder」を生み出すことができます
 
 # Quest.2867 - Aspen
 gtnh.quest2867.name=Aspen
-gtnh.quest2867.desc=You can breed an Aspen by combining Common Alder and Common Beech.
+gtnh.quest2867.desc=「Common Alder」と「Common Beech」を交配することで「Aspen」を生み出すことができます。
 
 # Quest.2868 - Elderberry
 gtnh.quest2868.name=Elderberry
-gtnh.quest2868.desc=You can breed an Elderberry by combining Common Alder and Aspen.
+gtnh.quest2868.desc=「Common Alder」と「Aspen」を交配することで「Elderberry」を生み出すことができます。
 
 # Quest.2869 - Raspberry
 gtnh.quest2869.name=Raspberry
-gtnh.quest2869.desc=You can breed Raspberry by combining Hill Cherry and Elderberry.
+gtnh.quest2869.desc=「Hill Cherry」と「Elderberry」を交配することで「Raspberry」を生み出すことができます。
 
 # Quest.2870 - Pomelo
 gtnh.quest2870.name=Pomelo
-gtnh.quest2870.desc=You can breed a Pomelo by combining Hill Cherry and Lemon.
+gtnh.quest2870.desc=「Hill Cherry」と「Lemon」を交配することで「Pomelo」を生み出すことができます。
 
 # Quest.2871 - Manderine
 gtnh.quest2871.name=Manderine
-gtnh.quest2871.desc=You can get Manderine by combining Pomelo and Hill Cherry.
+gtnh.quest2871.desc=「Hill Cherry」と「Pomelo」を交配することで「Manderine」を生み出すことができます。
 
 # Quest.2872 - Orange
 gtnh.quest2872.name=Orange
-gtnh.quest2872.desc=You can get Orange by combining Pomelo and Manderine.
+gtnh.quest2872.desc=「Manderine」と「Pomelo」を交配することで「Orange」を生み出すことができます。
 
 # Quest.2873 - Golden Raspberry
 gtnh.quest2873.name=Golden Raspberry
